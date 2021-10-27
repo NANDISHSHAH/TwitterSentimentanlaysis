@@ -4,4 +4,4 @@ We have been given a data to classify the tweet and to analyze the tweet into  t
 [0]-->neutral 
 [-1]-->Negative
 using the basic concepts of nlp and  classification algorithm recieved a highest accuracy around 94% using support vector machine.
-![](images/ts.jpg)
+![](ts.jpg)
